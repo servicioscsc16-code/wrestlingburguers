@@ -46,6 +46,13 @@ header{
     font-size: 1.5rem;
 }
 
+.nombre h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    color: #ff2600c9;
+    text-align: center;
+}
+
 .about h2{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 3rem;
