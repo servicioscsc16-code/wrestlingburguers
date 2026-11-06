@@ -136,7 +136,20 @@ nav a:hover{
     background-position:center;
     background-size:cover;
 }
+.hero-badges{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:15px;
+    margin-top:30px;
+}
 
+.hero-badges span{
+    background:rgba(255,255,255,.08);
+    border:1px solid rgba(255,204,0,.4);
+    padding:12px 20px;
+    border-radius:50px;
+}
 .overlay{
     width:100%;
     height:100%;
