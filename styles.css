@@ -623,7 +623,7 @@ a {
 }
 
 .logo{
-    padding-left: 50px;
+    padding-left: 10px;
 }
 
 .logo img{
@@ -649,6 +649,11 @@ a {
 }
 
 @media(max-width:480px){
+
+    .logo img{
+    
+    height: 150px;
+    max-width: 150px;
 
      .nombre h1{
         font-size:2rem;
